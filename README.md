@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-carconfig
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vueVinCheck
+App to check car vin number based on MarketCheck Api 
+>>>>>>> c542f59fe2072c0ab2a62a2521e079d968433b07
